@@ -1,0 +1,10 @@
+# This is a TOML document.
+
+startup_message = "Hi! This is a customized startup message"
+
+[amqp]
+host        = "message-broker"
+port        = "5432"
+user        = "guest"
+password    = "guest"
+
